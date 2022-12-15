@@ -1,0 +1,15 @@
+E:\Dasser\Aprendizaje .NET 6\EjercicioPractico_POO\EjercicioPractico_POO\obj\Debug\net6.0\EjercicioPractico_POO.csproj.AssemblyReference.cache
+E:\Dasser\Aprendizaje .NET 6\EjercicioPractico_POO\EjercicioPractico_POO\obj\Debug\net6.0\EjercicioPractico_POO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dasser\Aprendizaje .NET 6\EjercicioPractico_POO\EjercicioPractico_POO\obj\Debug\net6.0\EjercicioPractico_POO.AssemblyInfoInputs.cache
+E:\Dasser\Aprendizaje .NET 6\EjercicioPractico_POO\EjercicioPractico_POO\obj\Debug\net6.0\EjercicioPractico_POO.AssemblyInfo.cs
+E:\Dasser\Aprendizaje .NET 6\EjercicioPractico_POO\EjercicioPractico_POO\obj\Debug\net6.0\EjercicioPractico_POO.csproj.CoreCompileInputs.cache
+E:\Dasser\Aprendizaje .NET 6\EjercicioPractico_POO\EjercicioPractico_POO\bin\Debug\net6.0\EjercicioPractico_POO.exe
+E:\Dasser\Aprendizaje .NET 6\EjercicioPractico_POO\EjercicioPractico_POO\bin\Debug\net6.0\EjercicioPractico_POO.deps.json
+E:\Dasser\Aprendizaje .NET 6\EjercicioPractico_POO\EjercicioPractico_POO\bin\Debug\net6.0\EjercicioPractico_POO.runtimeconfig.json
+E:\Dasser\Aprendizaje .NET 6\EjercicioPractico_POO\EjercicioPractico_POO\bin\Debug\net6.0\EjercicioPractico_POO.dll
+E:\Dasser\Aprendizaje .NET 6\EjercicioPractico_POO\EjercicioPractico_POO\bin\Debug\net6.0\EjercicioPractico_POO.pdb
+E:\Dasser\Aprendizaje .NET 6\EjercicioPractico_POO\EjercicioPractico_POO\obj\Debug\net6.0\EjercicioPractico_POO.dll
+E:\Dasser\Aprendizaje .NET 6\EjercicioPractico_POO\EjercicioPractico_POO\obj\Debug\net6.0\refint\EjercicioPractico_POO.dll
+E:\Dasser\Aprendizaje .NET 6\EjercicioPractico_POO\EjercicioPractico_POO\obj\Debug\net6.0\EjercicioPractico_POO.pdb
+E:\Dasser\Aprendizaje .NET 6\EjercicioPractico_POO\EjercicioPractico_POO\obj\Debug\net6.0\EjercicioPractico_POO.genruntimeconfig.cache
+E:\Dasser\Aprendizaje .NET 6\EjercicioPractico_POO\EjercicioPractico_POO\obj\Debug\net6.0\ref\EjercicioPractico_POO.dll
